@@ -1,4 +1,4 @@
-## Hi:wave: ​
+## Hi
 
 I'm **Yung**. I am currently an undergraduate student @**Soochow University**, majoring in **Artificial Intelligence**.
 

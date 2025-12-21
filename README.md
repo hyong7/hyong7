@@ -1,6 +1,6 @@
-## Hi 👋
+## Hi
 
-I'm **Yung**. I am currently an undergraduate student @**Soochow University**, majoring in **Artificial Intelligence**.
+I am currently an undergraduate student @**Soochow University**, majoring in **Artificial Intelligence**.
 #### Daily Drivers
 
  ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![torch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
